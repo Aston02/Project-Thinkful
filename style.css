@@ -62,7 +62,7 @@ section {
 
 h1, h2, h3 {
   font-family: 'Montserrat Alternates', sans-serif;
-	color: #403933;
+	color: #f2f2eb;
   text-align: center;
   font-weight: 500;
 }
@@ -72,11 +72,11 @@ h2 { font-size: 26px; }
 h3 { font-size: 18px; }
 
 p, li {
- font-family: 'Helvetica', sans-serif;
- font-size: 18px;
+ font-family: 'Roboto', sans-serif;
+ font-size: 15px;
  line-height: 1.5em;
  margin-bottom: 0;
- color: #403933;
+ color: #f2f2eb;
 }
 
 a {
@@ -110,6 +110,7 @@ img {
   border-radius: 8px;
   border: 1px solid #c5c0b8;
 }
+
  iframe {
   width: 100%;
   border-radius: 8px;
